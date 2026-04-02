@@ -76,6 +76,7 @@
     </comp>
     <comp lib="0" loc="(1030,640)" name="Pin">
       <a name="appearance" val="classic"/>
+      <a name="label" val="valor1"/>
     </comp>
     <comp lib="0" loc="(1040,130)" name="Tunnel">
       <a name="facing" val="east"/>
@@ -119,6 +120,7 @@
     </comp>
     <comp lib="0" loc="(1050,100)" name="Pin">
       <a name="appearance" val="classic"/>
+      <a name="label" val="valor0"/>
     </comp>
     <comp lib="0" loc="(1050,1250)" name="Tunnel">
       <a name="facing" val="north"/>
